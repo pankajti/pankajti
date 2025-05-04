@@ -27,7 +27,7 @@ I specialize in bridging deep technical execution with strategic business impact
 
 ## 💼 Recent Projects
 
-### 🔍 [VantageSentiment](https://github.com/pankajti/vantage-sentiment)
+### 🔍 [VantageSentiment](https://github.com/pankajti/vantage_sentiments)
 > Agentic AI for financial sentiment analysis.  
 Built with LangChain, LangGraph, and Ollama — delivers collaborative LLM decisions for market news and social sentiment.
 
@@ -35,7 +35,7 @@ Built with LangChain, LangGraph, and Ollama — delivers collaborative LLM decis
 > Real-time commodity trading analytics using Kafka, Python, and predictive modeling.  
 Handled backtesting, trade execution simulation, and portfolio P&L tracking.
 
-### 📚 [LLMs in Finance: Sentiment Analysis](https://example.com)
+### 📚 [LLMs in Finance: Sentiment Analysis](https://leanpub.com/llms-in-finance--sentiment-analysis)
 > Upcoming book (in Quarto) exploring hands-on financial NLP, market sentiment modeling, and AI ethics in finance.
 
 ---
@@ -67,7 +67,7 @@ Handled backtesting, trade execution simulation, and portfolio P&L tracking.
 ## 📫 Get In Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pankajti/)
-- 🌐 [Portfolio](https://pankajti.github.io/)
+- 🌐 [Portfolio](https://github.com/pankajti?tab=repositories)
 - ✉️ Reach me via GitHub or LinkedIn
 
 ---
