@@ -45,11 +45,13 @@ Handled backtesting, trade execution simulation, and portfolio P&L tracking.
 |      Skill      | Experties
 |-----------------|-------------------------------|
 | Languages       | Python, Java, SQL, JavaScript     |
-| Frameworks      | Spring, Django, LangChain     |
+| Frameworks      | Spring, Django, LangChain ,Flask    |
 | Data            | PostgreSQL, ClickHouse, Pandas|
-| AI/ML           | scikit-learn, HuggingFace, LangGraph |
+| AI/ML           | scikit-learn, HuggingFace, LangGraph, Tensorflow, Pytorch |
 | Infra/Cloud     | AWS, Docker, Terraform, Kafka |
 | Tools           | Airflow, Git, Jupyter, Quarto |
+| UI              | plotly dash, NiceGui, processing |
+
 
 ---
 
