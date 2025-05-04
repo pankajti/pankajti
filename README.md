@@ -42,8 +42,9 @@ Handled backtesting, trade execution simulation, and portfolio P&L tracking.
 
 ## 🛠 Technologies
 
-| Languages       | Python, Java, SQL, JavaScript |
+|      Skill      | Experties
 |-----------------|-------------------------------|
+| Languages       | Python, Java, SQL, JavaScript     |
 | Frameworks      | Spring, Django, LangChain     |
 | Data            | PostgreSQL, ClickHouse, Pandas|
 | AI/ML           | scikit-learn, HuggingFace, LangGraph |
