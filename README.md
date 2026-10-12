@@ -34,9 +34,14 @@ Built with LangChain, LangGraph, and Ollama — delivers collaborative LLM decis
 ### 🛠 Trading System Architecture
 > Real-time commodity trading analytics using Kafka, Python, and predictive modeling.  
 Handled backtesting, trade execution simulation, and portfolio P&L tracking.
+> [Marvelous Mercury Trading System ](https://agri-23xn.onrender.com/)
 
 ### 📚 [LLMs in Finance: Sentiment Analysis](https://leanpub.com/llms-in-finance--sentiment-analysis)
 > Upcoming book (in Quarto) exploring hands-on financial NLP, market sentiment modeling, and AI ethics in finance.
+
+### 🔍 [FinHindsight](https://hsights-1.onrender.com/)
+>  Games and Reports related to finacial markets.  
+Please Try to know more.
 
 ---
 
