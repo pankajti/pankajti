@@ -31,10 +31,10 @@ I specialize in bridging deep technical execution with strategic business impact
 > Agentic AI for financial sentiment analysis.  
 Built with LangChain, LangGraph, and Ollama — delivers collaborative LLM decisions for market news and social sentiment.
 
-### 🛠 Trading System Architecture
+### 🛠 [Marvelous Mercury Trading System ](https://agri-23xn.onrender.com/)
 > Real-time commodity trading analytics using Kafka, Python, and predictive modeling.  
 Handled backtesting, trade execution simulation, and portfolio P&L tracking.
-> [Marvelous Mercury Trading System ](https://agri-23xn.onrender.com/)
+
 
 ### 📚 [LLMs in Finance: Sentiment Analysis](https://leanpub.com/llms-in-finance--sentiment-analysis)
 > Upcoming book (in Quarto) exploring hands-on financial NLP, market sentiment modeling, and AI ethics in finance.
